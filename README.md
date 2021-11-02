@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neginsoleimani
 - 👀 I’m interested in Web Design,Ui/Ux and GUI
 - 🌱 I’m currently learning Javascript ,react and redux
-- 💞️ I’m looking to collaborate on Frontend project
+- 💞️ I’m looking to collaborate on Front end project
 - 📫 How to reach me Negin.kdk1@gmail.com
 
 <!---
