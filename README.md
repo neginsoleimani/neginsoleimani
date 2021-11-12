@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Negin soleimani</h1>
 
-- 🔭 I’m currently working on **Web Design**
+- 🔭 I’m currently working on **Web Design Project**
 
 - 🌱 I’m currently learning **Javascript , react and redux**
 
