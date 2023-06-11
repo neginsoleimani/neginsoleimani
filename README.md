@@ -32,7 +32,7 @@
 <p align="center">
 <img height='165px' src="https://github-readme-stats.vercel.app/api?username=neginsoleimani&show_icons=true&bg_color=20232a&color=57bcda&line=c792ea&point=ffffff&title_color=57bcda&icon_color=00c4ff&text_color=ffffff&hide_border=true"> <img height='165px' src="https://streak-stats.demolab.com/?user=neginsoleimani&stroke=ffffff&&background=20232a&ring=54b6d2&fire=5fd4f4&currStreakNum=ffffff&currStreakLabel=5fd4f4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></h1><p>
 
-![Anurag's GitHub stats](https://github-readme-activity-graph.cyclic.app/graph?username=neginsoleimani&show_icons=true&bg_color=20232a&color=5fd4f4&line=5fd4f4&point=ffffff&custom_title=GitHub%20Commits%20Graph&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neginsoleimani&show_icons=true&bg_color=20232a&color=5fd4f4&line=5fd4f4&point=ffffff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/neginsoleimani)
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
