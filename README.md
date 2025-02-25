@@ -1,38 +1,72 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
+    <img src='https://i.ibb.co/fgFVhDL/Beige-Minimalist-Professional-Linked-In-Background-Photo-7.png'/>
 </p>
 
-<h1 align="center">Hi I'm Negin Soleimani<br>A Front-End Web Developer From Iran</h1>
+ <h1 align="left">About me</h1>
 
-  - 🔭 I'm currently Working on **Web Design Project**
-  - 🌱 I'm currently Learning **Javascript**, **React** and **Redux**
-  - 👩‍💻 I'm looking to Collaborate on **Front-end Project**
-  - 📧 How to Reach me **[Gmail](mailto:negin.kdk1@gmail.com)**
+###
 
-<h1 align="center">Skills</h1>
-<a href="https://github.com/neginsoleimani"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginsoleimani&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"><p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-</p>
+<p align="left">I'm Negin Soleimani, a Front-End Developer with a passion for UI/UX design. As a Computer Engineering graduate and Exceptional Talent, I ranked first in my class, reflecting my dedication to excellence and innovation. Here, I help you learn coding while creating visually appealing and functional designs. My goal is to craft seamless user experiences where users enjoy interacting with products, and you can effortlessly keep up with the latest technologies.</p>
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+###
 
-<h1 align="center">Socials</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/neginsoleimani/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/blackfire_lightning" target="_blank" rel="noreferrer" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-</p>
+<h1 align="left">My Skills</h1>
 
-<h1 align="center">Stats</h1>
-<p align="center">
-<img height='165px' src="https://github-readme-stats.vercel.app/api?username=neginsoleimani&show_icons=true&bg_color=20232a&color=57bcda&line=c792ea&point=ffffff&title_color=57bcda&icon_color=00c4ff&text_color=ffffff&hide_border=true"> <img height='165px' src="https://streak-stats.demolab.com/?user=neginsoleimani&stroke=ffffff&&background=20232a&ring=54b6d2&fire=5fd4f4&currStreakNum=ffffff&currStreakLabel=5fd4f4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></h1><p>
+###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neginsoleimani&show_icons=true&bg_color=20232a&color=5fd4f4&line=5fd4f4&point=ffffff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/neginsoleimani)
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+# My Experience
+
+| Role                    | Company                              | Duration                | Location        | Description |
+|-------------------------|--------------------------------------|-------------------------|----------------|-------------|
+| **Front-End Developer** | Sakok CRM                           | Jul 2023 – Present      | Remote, Iran   | Building intuitive, scalable UI solutions with React to enhance user experience and streamline CRM. |
+| **Software Engineer Intern** | Telecommunication Company of Iran (TCI) | Jun 2024 – Sep 2024 | Abadan, Iran   | Gained hands-on experience in telecom software development and studied Siemens' technical manuals. |
+| **Front-End Developer** | Vira Rayan Data Processing          | Oct 2022 – Dec 2022     | Hybrid, Iran   | Designed and developed responsive, user-friendly interfaces in a university-affiliated company. |
+
+<h1 align="left">Socials</h1>
+
+###
+
+<div align="left">
+  <a href="negin.kdk1@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/neginsoleimani/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="http://www.instagram.com/blackfire_lightning" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+
+<h1 align="left">Stats</h1>
+<p align='left'><img height='165px' src='https://github-readme-stats.vercel.app/api?username=neginsoleimani&show_icons=true&bg_color=fef7e7&color=b88f66&line=c792ea&point=000000&title_color=b88f66&icon_color=b88f66&text_color=000000&hide_border=true'>
+<img height='165px' src='https://streak-stats.demolab.com/?user=neginsoleimani&stroke=b88f66&&background=fef7e7&ring=b88f66&fire=b88f66&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true' ></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neginsoleimani&show_icons=true&bg_color=fef7e7&color=b88f66&line=000000&point=b88f66&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/neginsoleimani)
