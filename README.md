@@ -66,7 +66,7 @@
 
 
 <h1 align="left">Stats</h1>
-<p align='left'><img height='165px' src='https://github-readme-stats.vercel.app/api?username=neginsoleimani&show_icons=true&bg_color=fef7e7&color=b88f66&line=c792ea&point=000000&title_color=b88f66&icon_color=b88f66&text_color=000000&hide_border=true'>
+<p align='center'><img height='165px' src='https://github-readme-stats.vercel.app/api?username=neginsoleimani&show_icons=true&bg_color=fef7e7&color=b88f66&line=c792ea&point=000000&title_color=b88f66&icon_color=b88f66&text_color=000000&hide_border=true'>
 <img height='165px' src='https://streak-stats.demolab.com/?user=neginsoleimani&stroke=b88f66&&background=fef7e7&ring=b88f66&fire=b88f66&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true' ></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neginsoleimani&show_icons=true&bg_color=fef7e7&color=b88f66&line=000000&point=b88f66&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/neginsoleimani)
